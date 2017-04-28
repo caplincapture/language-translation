@@ -1,4 +1,4 @@
-# language-translation
+# Language Translation
 LSTM Seq2Seq Language Translation Architecture
 
 This is a sequence to sequence language translation model using TensorFlow as part of a project through Udacity. 
